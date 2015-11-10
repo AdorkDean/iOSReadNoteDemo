@@ -1,0 +1,15 @@
+platform :ios
+pod 'AFNetworking', '~> 2.5.3'
+pod 'ASIHTTPRequest', '~> 1.8.2'
+pod 'Cordova', '~> 3.8.0'
+pod 'FMDB', '~> 2.4'
+pod 'MBProgressHUD', '~> 0.9'
+pod 'OpenSSL', '~> 1.0.201'
+pod 'Reachability', '~> 3.2'
+pod 'ReactiveCocoa', '~> 2.3.1'
+pod 'RegexKitLite', '~> 4.0'
+pod 'SDWebImage', '~> 3.7.1'
+pod 'TPKeyboardAvoiding', '~> 1.2.6'
+
+platform :ios, '6.0'
+pod 'Masonry', '~> 0.5.3'

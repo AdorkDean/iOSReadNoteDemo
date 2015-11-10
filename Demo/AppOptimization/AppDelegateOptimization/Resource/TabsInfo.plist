@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>defaultImageName</key>
+		<string>tab_home</string>
+		<key>selectedImageName</key>
+		<string>tab_home_a</string>
+		<key>tabtitle</key>
+		<string>首页</string>
+	</dict>
+	<dict>
+		<key>defaultImageName</key>
+		<string>tab_feature</string>
+		<key>selectedImageName</key>
+		<string>tab_feature_a</string>
+		<key>tabtitle</key>
+		<string>分类</string>
+	</dict>
+	<dict>
+		<key>defaultImageName</key>
+		<string>tab_account</string>
+		<key>selectedImageName</key>
+		<string>tab_account_a</string>
+		<key>tabtitle</key>
+		<string>账户</string>
+	</dict>
+</array>
+</plist>
